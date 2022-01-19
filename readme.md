@@ -6,7 +6,7 @@
   
 ## How to use
 
-1. Install Docker and necessray dependancies (WSL) to your computer
+1. Install Docker and necessary dependancies (such as WSL) to your computer
 2. Install VS Code and add Remote-Container extension
 3. Install Git for pulling and pushing code to Github
 4. Open this folder in VS Code and clone the assignment here
